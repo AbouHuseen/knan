@@ -1,9 +1,8 @@
 {
-  "name": "fcc-api-projects-boilerplate",
-  "version": "0.0.1",
-  "description": "An FCC Backend Challenge",
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice project for freeCodeCamp Backend Certification",
   "main": "index.js",
-  
   "scripts": {
     "start": "node index.js"
   },
@@ -13,17 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "https://github.com/AbouHuseen/sam.git"
   },
   "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
+    "url": "https://github.com/AbouHuseen/sam/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "homepage": "https://github.com/AbouHuseen/sam#readme",
+  "author": "Your Name <your.email@example.com>",
   "keywords": [
     "node",
     "express",
-    "freeCodeCamp"
+    "freeCodeCamp",
+    "timestamp",
+    "api"
   ],
   "license": "MIT"
 }
